@@ -1,0 +1,4 @@
+#ifndef GEMSTRUCTURE_H
+#define GEMSTRUCTURE_H
+
+#endif // GEMSTRUCTURE_H

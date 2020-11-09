@@ -1,0 +1,15 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>resource/qt4logo.png</file>
+    <file>resource/zoomin.png</file>
+    <file>resource/zoomout.png</file>
+    <file>resource/rotateleft.png</file>
+    <file>resource/rotateright.png</file>
+    <file>resource/up.bmp</file>
+    <file>resource/down.bmp</file>
+    <file>resource/left.bmp</file>
+    <file>resource/right.bmp</file>
+    <file>resource/monkey.png</file>
+    <file>resource/gridless.png</file>
+</qresource>
+</RCC>
